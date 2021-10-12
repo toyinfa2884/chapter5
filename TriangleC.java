@@ -11,6 +11,7 @@ public class TriangleC {
                 System.out.print(" ");
                 for(coded = 10; coded > code; coded-- )
             System.out.print("*");
+            System.out.println();
 
         }
     }
